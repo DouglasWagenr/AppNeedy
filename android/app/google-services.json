@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "677994641682",
+    "firebase_url": "https://needy-47be4.firebaseio.com",
+    "project_id": "needy-47be4",
+    "storage_bucket": "needy-47be4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677994641682:android:bb63a27b5477ca6cd71bcb",
+        "android_client_info": {
+          "package_name": "com.example.needy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677994641682-4t4jvg8adk5ranb96qbt4v1c93bd6cq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbF2ZMP3-zb0FSR6mg2GpFXuhHLg8cd_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677994641682-4t4jvg8adk5ranb96qbt4v1c93bd6cq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
